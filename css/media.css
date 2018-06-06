@@ -207,6 +207,9 @@ footer .block .item{
   text-align: center;   
   display: block;
 }
+.blogs .nav_blogs .tabs span{
+  font-size: 17px;
+}
 }
 
 /* Extra Small Devices, Phones */
@@ -274,6 +277,9 @@ article .comment_content p{
 }
 .wrapper{
   margin: 0 15px;
+}
+.blogs .nav_blogs .tabs span{
+     margin-right: 17px;
 }
 }
 
